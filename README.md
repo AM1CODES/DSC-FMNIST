@@ -2,7 +2,7 @@
 Repository for Second round interview for DSC Technical Team VIT-B
 
 # Data
-We have 70,000 images of size (28x28). This data set acts as a new replacement or alternative for the original MNIST data set and this too has 10 classes like the original MNIST data.
+We have 70,000 images of size (28x28). This data set acts as a new replacement or alternative for the original MNIST data set and this too has 10 classes like the original MNIST data. <br>
 Link to the data - https://www.kaggle.com/zalando-research/fashionmnist
 
 # Our Goal
